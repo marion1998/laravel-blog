@@ -1,0 +1,16 @@
+{
+    "name": "zurcher/calculator",
+    "authors": [
+        {
+            "name": "marion1998",
+            "email": "marion281098@outlook.fr"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^7"
+    },
+
+    "scripts": {
+        "test" : "./vendor/bin/phpunit ./CalculatorTest.php"
+    }
+}

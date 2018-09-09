@@ -1,0 +1,15 @@
+{
+    "name": "zurcher/nombre_mystere",
+    "authors": [
+        {
+            "name": "marion1998",
+            "email": "marion281098@outlook.fr"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^7.3"
+    },
+
+    "scripts": {
+        "test": "./vendor/bin/phpunit ./test.php" 
+    }}
